@@ -8,5 +8,6 @@ This section is dedicated to testing how to resolve conflicts in Git. Conflicts 
 - Attempt to merge the branches to trigger a conflict.
 - Edit the file to resolve the conflict.
 - Stage and commit the resolved file.
+- Add changes from upstream
 
 By practicing conflict resolution, you can ensure smooth collaboration in your projects.
